@@ -1,2 +1,2 @@
 # dulagon
-The new open souce Cell Phone system,will substitute for android and ios
+The new open source Cell Phone system,will substitute for android and ios
